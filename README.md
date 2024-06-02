@@ -11,8 +11,10 @@ Mentor：[Bi Zeng](mailto:zb9215@gdut.edu.cn)
 
 ## Deployment photo display 
 Home:
-
+<img src="fig\登录欢迎界面.png">
 Recommendation display:
+<img src="fig\微波炉饮食推荐系统推荐界面.png">
+<img src="fig\微波炉饮食推荐系统推荐界面02.png">
 
 ## Deployment video display
 please click [here] to get the displayed of video.
