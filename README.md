@@ -17,5 +17,5 @@ Recommendation display:
 <img src="fig\微波炉饮食推荐系统推荐界面02.png">
 
 ## Deployment video display
-please click [here] to get the displayed of video.
+please click [here](deploy_video/deployed_demo.mp4) to get the displayed of video.
 
